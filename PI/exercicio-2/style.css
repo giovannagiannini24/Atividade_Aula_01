@@ -1,0 +1,19 @@
+.square-1{
+    background-color: rgb(153, 120, 220);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.square-2{
+    background-color: #FFCBDB;
+    width: 250px;
+    border: 20px solid red;
+}
+
+.square-3{
+    background-color: #7FFFD4;
+    width: 30%;
+    height: 88%;
+}
